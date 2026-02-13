@@ -105,7 +105,7 @@ NEFF = float(CFG.get('fixed_neff', 3.044))
 MNU_EV = float(CFG.get('cmb_mnu_eV', 0.06))
 
 # ============================================================================
-# CMB EU 3-vector & covariance (DESI compressed priors marginalised over lensing)
+# CMB EU 3-vector & covariance
 # ============================================================================
 
 CMB_EU_MEAN = np.array([0.01041027, 0.02223208, 0.14207901], dtype=np.float64)
