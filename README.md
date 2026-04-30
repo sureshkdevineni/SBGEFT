@@ -1,6 +1,11 @@
 # SBGEFT
 Strain-Based Effective Field Theory of Gravity: cosmology inference pipelines, EHT shadow analysis, and MCMC chains.
 
+HEAD
+
+This repository accompanies the paper, "A Strain-Based Effective Field Theory of Gravity: From Horizon-Scale Phenomena to Late-Time Inhomogeneity Contributions to Cosmic Expansion (https://papers.ssrn.com/abstract=6236979)".
+
+bbfa4bf (Added paper link to README)
 Data and Resources
 
 The repository contains the cosmological inference code for the strain model, EHT shadow analysis modules, and posterior chains for the dataset combinations reported in Tables I–III.
